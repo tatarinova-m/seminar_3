@@ -7,6 +7,7 @@
 2. Two
 3. Three
 
+Здесь котик
 ![cat](cat.jpg)
 
 ## List №2 ##
